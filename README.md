@@ -1,2 +1,2 @@
-# ProjectsDone
-These are projects that I have worked on myself and compiled into a document format
+# Projects
+Every file in this repository is documents/projects I have completed by myself. I will be adding to this when able to. Thank you for time.  
